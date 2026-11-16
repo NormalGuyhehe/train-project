@@ -1,0 +1,16 @@
+{
+  "name": "АТЛЕТ — онлайн-запись",
+  "short_name": "АТЛЕТ",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#F4F6F1",
+  "theme_color": "#0C6B4F",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
